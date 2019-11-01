@@ -844,9 +844,9 @@ xtend@^4.0.0:
   version "4.0.1"
   resolved "http://registry.npm.taobao.org/xtend/download/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
-yarn@^1.9.4:
-  version "1.9.4"
-  resolved "http://registry.npm.taobao.org/yarn/download/yarn-1.9.4.tgz#3b82d8446b652775723900b470d966861976924b"
+yarn@^1.17.3:
+  version "1.17.3"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.17.3.tgz#60e0b77d079eb78e753bb616f7592b51b6a9adce"
 
 yauzl@^2.4.2:
   version "2.10.0"

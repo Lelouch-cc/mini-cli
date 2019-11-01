@@ -22,6 +22,6 @@
     "ora": "^3.0.0",
     "simple-git": "^1.96.0",
     "validate-npm-package-name": "^3.0.0",
-    "yarn": "^1.9.4"
+    "yarn": "^1.17.3"
   }
 }
