@@ -16,7 +16,7 @@
     "add": "^2.0.6",
     "chalk": "^2.4.1",
     "git-url-parse": "^10.0.1",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.7.7",
     "inquirer": "^6.2.0",
     "log-symbols": "^2.2.0",
     "ora": "^3.0.0",
