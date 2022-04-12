@@ -20,7 +20,7 @@
     "inquirer": "^6.2.0",
     "log-symbols": "^2.2.0",
     "ora": "^3.0.0",
-    "simple-git": "^1.96.0",
+    "simple-git": "^3.5.0",
     "validate-npm-package-name": "^3.0.0",
     "yarn": "^1.9.4"
   }
